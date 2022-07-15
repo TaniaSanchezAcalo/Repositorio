@@ -1,9 +1,9 @@
 [
 
 	{"alumno":"Tania","nota":10,"ranking":1},
-	{"alumno":"Pedro","nota":9,"ranking":10},
-	{"alumno":"Juan","nota":8.5,"ranking":80},
-	{"alumno":"Jose","nota":7.8,"ranking":140},
+	{"alumno":"Pedro","nota":9.3,"ranking":30},
+	{"alumno":"Juan","nota":8.1, "ranking":80},
+	{"alumno":"Jose","nota":7.4,"ranking":140},
 	{"alumno":"Pepe","nota":7,"ranking":180},
 	{"alumno":"Pepa","nota":6,"ranking":200},
 	{"alumno":"Juana","nota":5,"ranking":310},
